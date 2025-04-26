@@ -1,2 +1,2 @@
-# clocth-kiosk
+# cloth-kiosk
 cloth kiosk repo 
